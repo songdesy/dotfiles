@@ -3,8 +3,8 @@
 
 
 # Infomations
-- bash_profile  bash config
-- init.toml     spacevim config
-- setting.xml   maven config
-- vimrc         vim config
-- zshrc         zsh bash config
+- [bash_profile](https://github.com/songdesy/dotfiles/tree/master/config/bash_profile)  bash config
+- [init.toml](https://github.com/songdesy/dotfiles/tree/master/config/init.toml)     spacevim config
+- [setting.xml](https://github.com/songdesy/dotfiles/tree/master/config/setting.xml)   maven config
+- [vimrc](https://github.com/songdesy/dotfiles/tree/master/config/vimrc)         vim config
+- [zshrc](https://github.com/songdesy/dotfiles/tree/master/config/zshrc)         zsh bash config
