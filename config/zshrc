@@ -98,3 +98,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias st="open -a \"Sublime Text\""
+export GOPATH=/Users/wss/gitstore/go
+
+alias unrar="/usr/local/Cellar/unrar/5.7.5/bin/unrar"
+export MAVEN_HOME=/Users/wss/developer/apache-maven-3.5.3
+export PATH=$MAVEN_HOME/bin:$PATH
